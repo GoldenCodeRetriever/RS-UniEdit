@@ -1,0 +1,16 @@
+numpy
+pandas
+Pillow
+tqdm
+openai
+rasterio
+tifffile
+tacoreader<1.0
+torch
+torchvision
+torchmetrics
+torch-fidelity
+transformers
+lpips
+DISTS-pytorch
+pyiqa
